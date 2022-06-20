@@ -2,7 +2,7 @@
 A javascript tutorial for beginners
 
 # Contents
-- [Introduction] (https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#introduction)
+- [Introduction](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#introduction) [](url)
 
 # Introduction
 

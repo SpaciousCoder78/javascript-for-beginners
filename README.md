@@ -4,7 +4,7 @@ A javascript tutorial for beginners
 # Contents
 - [Introduction] (
 
-## Introduction
+# Introduction
 
 Introduction
 

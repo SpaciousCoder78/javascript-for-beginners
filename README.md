@@ -28,7 +28,7 @@ Just like in python, the length of hello world program in javascript is just one
 
 ![image](https://user-images.githubusercontent.com/88923986/174624105-8dcd4431-e796-43a2-a3f0-b60f7d25467f.png)
 
-# Comments
+## Comments
 
 Comments are used for documentation purposes and are not executed when the program runs.
 In Javascript you can add comments using //

@@ -49,7 +49,7 @@ We can use a variable anywhere by mentioning it.
 
 ![image](https://user-images.githubusercontent.com/88923986/175541410-59342ed8-9cdc-4150-9758-a769acf28e50.png)
 ## Changing value of a variable
-We can change the value of a variable by redefining it
+We can change the value of a variable by redefining it. We do not have to mention var while redefining a variable.
 
 ![image](https://user-images.githubusercontent.com/88923986/175541645-d3e07a7c-0afe-4195-8e61-0e858e18194e.png)
 

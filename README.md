@@ -4,6 +4,8 @@ A javascript tutorial for beginners
 # Contents
 - [Introduction](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#introduction) [](url)
 - [Hello World Program](https://github.com/SpaciousCoder78/javascript-for-beginners#creating-a-hello-world-program) [](url)
+- [Comments](https://github.com/SpaciousCoder78/javascript-for-beginners#comments) [](url)
+- [Variables](https://github.com/SpaciousCoder78/javascript-for-beginners#variables) [](url)
 
 # Introduction
 

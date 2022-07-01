@@ -7,6 +7,7 @@ A javascript tutorial for beginners
 - [Comments](https://github.com/SpaciousCoder78/javascript-for-beginners#comments) [](url)
 - [Variables](https://github.com/SpaciousCoder78/javascript-for-beginners#variables) [](url)
 - [Constants](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#constants) [](url)
+- [String Indexing]
 
 # Introduction
 
@@ -71,6 +72,33 @@ Constants, unlike variables, have a fixed value, which means that the value of a
 We have to use 'const' before defining a constant
  
 ![image](https://user-images.githubusercontent.com/88923986/176846631-2739e3bc-e034-48b9-8665-ef827681f666.png)
+ 
+# String Indexing
+ When we declare a string, we can access individual characters of the string using index numbers. Index numbers start from zero.
+ 
+![image](https://user-images.githubusercontent.com/88923986/176847596-4e755718-0b94-49e9-ae73-66434c9859b1.png)
+
+## Printing a character of the string
+
+We can print a character of the string using "variablename[indexnumber]"
+
+![image](https://user-images.githubusercontent.com/88923986/176848471-c5f07feb-529c-41c0-9ac5-79514c82d09e.png)
+
+## Length of the string
+ 
+We can find the length of the string using "variablename.length"
+ 
+![image](https://user-images.githubusercontent.com/88923986/176848785-3a4668eb-c5ac-425a-a717-9164fe661f22.png)
+ 
+## Last Index of a string
+
+We can find the last index of a string using "variablename.length-1"
+
+![image](https://user-images.githubusercontent.com/88923986/176849133-2bd3c338-5be5-4c74-80cf-7c853dac6b06.png)
+ 
+
+
+
 
 
 

@@ -6,7 +6,7 @@ A javascript tutorial for beginners
 - [Hello World Program](https://github.com/SpaciousCoder78/javascript-for-beginners#creating-a-hello-world-program) [](url)
 - [Comments](https://github.com/SpaciousCoder78/javascript-for-beginners#comments) [](url)
 - [Variables](https://github.com/SpaciousCoder78/javascript-for-beginners#variables) [](url)
-- [Constants]
+- [Constants](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#constants) [](url)
 
 # Introduction
 
@@ -68,7 +68,8 @@ Rules:
 Constants, unlike variables, have a fixed value, which means that the value of a constant cannot be changed.
 
 ## Declaring a constant
- We have to use 'const' before defining a constant
+We have to use 'const' before defining a constant
+ 
 ![image](https://user-images.githubusercontent.com/88923986/176846631-2739e3bc-e034-48b9-8665-ef827681f666.png)
 
 

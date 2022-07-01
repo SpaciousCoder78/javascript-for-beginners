@@ -6,6 +6,7 @@ A javascript tutorial for beginners
 - [Hello World Program](https://github.com/SpaciousCoder78/javascript-for-beginners#creating-a-hello-world-program) [](url)
 - [Comments](https://github.com/SpaciousCoder78/javascript-for-beginners#comments) [](url)
 - [Variables](https://github.com/SpaciousCoder78/javascript-for-beginners#variables) [](url)
+- [Constants]
 
 # Introduction
 
@@ -62,6 +63,13 @@ Rules:
 - Variable cannot start with a number(eg. 1value)
 - We can use only underscore(_) or dollarsign($) in the beginning of a variable name
 - We cannot use spaces while naming variables
+ 
+# Constants
+Constants, unlike variables, have a fixed value, which means that the value of a constant cannot be changed.
+
+## Declaring a constant
+ We have to use 'const' before defining a constant
+![image](https://user-images.githubusercontent.com/88923986/176846631-2739e3bc-e034-48b9-8665-ef827681f666.png)
 
 
 

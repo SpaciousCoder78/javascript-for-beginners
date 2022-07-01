@@ -7,7 +7,7 @@ A javascript tutorial for beginners
 - [Comments](https://github.com/SpaciousCoder78/javascript-for-beginners#comments) [](url)
 - [Variables](https://github.com/SpaciousCoder78/javascript-for-beginners#variables) [](url)
 - [Constants](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#constants) [](url)
-- [String Indexing]
+- [String Indexing](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#string-indexing) [](url)
 
 # Introduction
 

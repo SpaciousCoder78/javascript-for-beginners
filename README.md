@@ -42,6 +42,7 @@ In Javascript you can add comments using //
 Variables can store some information and the stored information can be changed at a later time
 ## Declaring a variable
 We can declare a variable by typing “var variablename=value;”
+We can also use 'let' instead of var
  
 ![image](https://user-images.githubusercontent.com/88923986/175541294-1fbe79f9-729a-4f99-9c81-99a8ba84a4ca.png)
 ## Using a variable

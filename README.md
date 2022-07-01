@@ -120,7 +120,24 @@ When dealing with strings, we can use methods like trim(), toUpperCase(), toLowe
  
  ![image](https://user-images.githubusercontent.com/88923986/176853669-db821336-d336-4317-8edd-6a3d99bbf1ba.png)
  
+## typeof operator
+ We can use typeof operator to find the datatype of a variable
  
+ ![image](https://user-images.githubusercontent.com/88923986/176859090-42436b1a-77f5-4a48-b924-553427cefaa9.png)
+
+## Converting number to string
+ We can convert a number to string by concatenating it with ""
+ 
+ ![image](https://user-images.githubusercontent.com/88923986/176860008-1c9549e0-b5c3-42b7-8a7d-628f91032b1c.png)
+
+ 
+## Converting string to number
+ 
+We can convert a string to number by adding a plus sign before the string
+ 
+ ![image](https://user-images.githubusercontent.com/88923986/176860314-eb5efdaf-0453-4c74-947e-77645ad6a9d4.png)
+
+
 
  
 

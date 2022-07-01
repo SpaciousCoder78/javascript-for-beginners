@@ -8,6 +8,7 @@ A javascript tutorial for beginners
 - [Variables](https://github.com/SpaciousCoder78/javascript-for-beginners#variables) [](url)
 - [Constants](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#constants) [](url)
 - [String Indexing](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#string-indexing) [](url)
+- [String Methods]
 
 # Introduction
 
@@ -96,7 +97,34 @@ We can find the last index of a string using "variablename.length-1"
 
 ![image](https://user-images.githubusercontent.com/88923986/176849133-2bd3c338-5be5-4c74-80cf-7c853dac6b06.png)
  
+# String Methods
+When dealing with strings, we can use methods like trim(), toUpperCase(), toLowercase() and string slicing.
 
+## trim() method
+ This method is used to remove whitespaces in a string
+ 
+ ![image](https://user-images.githubusercontent.com/88923986/176851495-735d4c6d-716e-43fd-bbc4-86671b761620.png)
+
+## toUpperCase() Method
+ This method changes the text in the string to uppercase 
+ 
+ ![image](https://user-images.githubusercontent.com/88923986/176852687-ac4fe6d5-312d-4a90-bab6-828c1f3dfada.png)
+
+## toLowerCase() Method
+ This method changes the text in the string to lowercase
+ 
+ ![image](https://user-images.githubusercontent.com/88923986/176852980-a1367d43-40ee-4d68-b39b-4b1c8b9f4431.png)
+
+## String Slicing
+ We can slice a string by mentioning parameters using slice() function
+ 
+ ![image](https://user-images.githubusercontent.com/88923986/176853669-db821336-d336-4317-8edd-6a3d99bbf1ba.png)
+ 
+ 
+
+ 
+
+ 
 
 
 

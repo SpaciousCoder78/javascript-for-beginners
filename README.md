@@ -9,6 +9,7 @@ A javascript tutorial for beginners
 - [Constants](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#constants) [](url)
 - [String Indexing](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#string-indexing) [](url)
 - [String Methods](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#string-methods) [](url)
+- [String Concatentation]
 
 # Introduction
 
@@ -136,6 +137,14 @@ When dealing with strings, we can use methods like trim(), toUpperCase(), toLowe
 We can convert a string to number by adding a plus sign before the string
  
  ![image](https://user-images.githubusercontent.com/88923986/176860314-eb5efdaf-0453-4c74-947e-77645ad6a9d4.png)
+ 
+# String Concatenation 
+ 
+ We can concatenate (add) two strings by using the plus(+) sign between the two strings
+ 
+ ![image](https://user-images.githubusercontent.com/88923986/176861265-b6e6c177-fd20-4e12-9e31-bbb17a87676d.png)
+
+
 
 
 

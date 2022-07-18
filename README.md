@@ -10,6 +10,7 @@ A javascript tutorial for beginners
 - [String Indexing](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#string-indexing) [](url)
 - [String Methods](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#string-methods) [](url)
 - [String Concatentation](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#string-concatenation) [](url)
+- [If else condition]
 
 # Introduction
 
@@ -143,6 +144,15 @@ We can convert a string to number by adding a plus sign before the string
  We can concatenate (add) two strings by using the plus(+) sign between the two strings
  
  ![image](https://user-images.githubusercontent.com/88923986/176861265-b6e6c177-fd20-4e12-9e31-bbb17a87676d.png)
+ 
+# If else condition
+We can use if else condition using relational operators like >, <, =, ==, != etc
+
+![image](https://user-images.githubusercontent.com/88923986/179539302-4052f5de-b62b-476e-8260-5682e068d0ab.png)
+![image](https://user-images.githubusercontent.com/88923986/179539747-db7707fd-d6b7-41aa-b24d-199bfc139c90.png)
+
+
+
 
 
 

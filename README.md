@@ -15,8 +15,8 @@ A javascript tutorial for beginners
 - [Else if condition](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#nested-if-condition) [](url)
 - [Switch Statement](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#switch-statement) [](url)
 - [While loop](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#while-loop) [](url)
-- [For loop]
-- [Break statement]
+- [For loop](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#for-loop) [](url)
+- [Break statement](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#break-statement) [](url)
 
 # Introduction
 

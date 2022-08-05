@@ -11,6 +11,7 @@ A javascript tutorial for beginners
 - [String Methods](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#string-methods) [](url)
 - [String Concatentation](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#string-concatenation) [](url)
 - [If else condition](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#if-else-condition) [](url)
+- [Nested if condition]
 
 # Introduction
 
@@ -150,6 +151,14 @@ We can use if else condition using relational operators like >, <, =, ==, != etc
 
 ![image](https://user-images.githubusercontent.com/88923986/179539302-4052f5de-b62b-476e-8260-5682e068d0ab.png)
 ![image](https://user-images.githubusercontent.com/88923986/179539747-db7707fd-d6b7-41aa-b24d-199bfc139c90.png)
+
+# Nested if condition
+
+![image](https://user-images.githubusercontent.com/88923986/183103710-ccc8ffda-f30e-43bf-92e9-cc4612b97d45.png)
+
+# Else if condition
+
+![image](https://user-images.githubusercontent.com/88923986/183104433-86d1c1b4-8ebc-46e1-904f-ea7e45c1ddf2.png)
 
 
 

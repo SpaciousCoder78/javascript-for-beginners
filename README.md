@@ -13,6 +13,8 @@ A javascript tutorial for beginners
 - [If else condition](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#if-else-condition) [](url)
 - [Nested if condition](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#nested-if-condition) [](url)
 - [Else if condition](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#nested-if-condition) [](url)
+- [Switch Statement]
+- [While loop]
 
 # Introduction
 
@@ -166,6 +168,12 @@ We can use if else condition using relational operators like >, <, =, ==, != etc
 Switch statement can be used instead of nested if else statements
 
 ![image](https://user-images.githubusercontent.com/88923986/183106502-155ee847-18c1-43cc-a8a1-619e88fe7e5c.png)
+
+                                                                   
+                                                                   
+# While loop
+                                                                   
+![image](https://user-images.githubusercontent.com/88923986/183109366-424c3b49-e557-4a7a-909c-fc68b6131b27.png)
 
 
 

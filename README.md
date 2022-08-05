@@ -15,6 +15,7 @@ A javascript tutorial for beginners
 - [Else if condition](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#nested-if-condition) [](url)
 - [Switch Statement](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#switch-statement) [](url)
 - [While loop](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#while-loop) [](url)
+- [For loop]
 
 # Introduction
 
@@ -174,6 +175,13 @@ Switch statement can be used instead of nested if else statements
 # While loop
                                                                    
 ![image](https://user-images.githubusercontent.com/88923986/183109366-424c3b49-e557-4a7a-909c-fc68b6131b27.png)
+                                                                   
+# For loop
+                                                                   
+![image](https://user-images.githubusercontent.com/88923986/183111101-0ffba387-7251-426a-a21f-825a66f64533.png)
+
+                                                                   
+                                                                   
 
 
 

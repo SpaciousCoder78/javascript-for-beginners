@@ -17,6 +17,7 @@ A javascript tutorial for beginners
 - [While loop](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#while-loop) [](url)
 - [For loop](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#for-loop) [](url)
 - [Break statement](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#break-statement) [](url)
+- [Continue statement]
 
 # Introduction
 
@@ -186,6 +187,12 @@ Switch statement can be used instead of nested if else statements
 Break statement ends the loop if the break statement's condition gets satisfied
  
 ![image](https://user-images.githubusercontent.com/88923986/183111640-ecad6751-d68d-4bb3-a16f-8ba2f23f8138.png)
+
+# Continue statement
+
+Continue statement continues the loop if the condition gets satisfied
+
+![image](https://user-images.githubusercontent.com/88923986/183112192-b4ab8e15-680c-4017-92f3-c73a603493b2.png)
 
 
                                                                    

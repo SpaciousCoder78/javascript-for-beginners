@@ -160,6 +160,12 @@ We can use if else condition using relational operators like >, <, =, ==, != etc
 # Else if condition
 
 ![image](https://user-images.githubusercontent.com/88923986/183104433-86d1c1b4-8ebc-46e1-904f-ea7e45c1ddf2.png)
+                                                                   
+                                                                   
+# Switch Statement
+Switch statement can be used instead of nested if else statements
+
+![image](https://user-images.githubusercontent.com/88923986/183106502-155ee847-18c1-43cc-a8a1-619e88fe7e5c.png)
 
 
 

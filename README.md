@@ -11,7 +11,8 @@ A javascript tutorial for beginners
 - [String Methods](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#string-methods) [](url)
 - [String Concatentation](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#string-concatenation) [](url)
 - [If else condition](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#if-else-condition) [](url)
-- [Nested if condition]
+- [Nested if condition](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#nested-if-condition) [](url)
+- [Else if condition](https://github.com/SpaciousCoder78/javascript-for-beginners/blob/main/README.md#nested-if-condition) [](url)
 
 # Introduction
 

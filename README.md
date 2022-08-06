@@ -19,6 +19,7 @@ A javascript tutorial for beginners
 - [Break statement](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#break-statement) [](url)
 - [Continue statement](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#continue-statement) [](url)
 - [Do while loop](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#do-while-loop) [](url)
+- [Arrays]
 
 # Introduction
 
@@ -200,7 +201,39 @@ Continue statement continues the loop if the condition gets satisfied
 This loop executes the code block once and continues doing so if the while loop condition is satisfied
 
 ![image](https://user-images.githubusercontent.com/88923986/183235923-e4f05675-d28f-4c66-b372-c1d516c834b5.png)
+ 
+# Arrays
+ 
+Arrays are a type of objects that store multiple values in a single variable
 
+![image](https://user-images.githubusercontent.com/88923986/183236460-8ce439b7-2329-4d18-8abb-6f3174a1e7af.png)
+
+## Array Indexing
+ 
+![image](https://user-images.githubusercontent.com/88923986/183236486-9f34e2af-3b90-487b-aafc-8286b5f3bb7b.png)
+
+## Array push
+ 
+Push() can be used to insert another value into the array
+ 
+![image](https://user-images.githubusercontent.com/88923986/183236571-f782e647-0abe-456a-bd22-d2b259a2dfb0.png)
+
+## Array pop
+ 
+pop() can be used to delete the last element in the array
+ 
+![image](https://user-images.githubusercontent.com/88923986/183236645-45462f7f-80f4-462c-9ea1-55bbc01f1428.png)
+
+## Array Shift and unshift
+ 
+Unshift pushes the element in the beginning of array where as shift removes the first element of the array
+
+![image](https://user-images.githubusercontent.com/88923986/183236743-b7015332-e0cb-4cb5-8377-d37add1f018f.png)
+
+![image](https://user-images.githubusercontent.com/88923986/183236761-d8139993-5424-455c-8db7-8555166f4140.png)
+
+
+ 
 
 
 

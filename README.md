@@ -232,6 +232,16 @@ Unshift pushes the element in the beginning of array where as shift removes the 
 
 ![image](https://user-images.githubusercontent.com/88923986/183236761-d8139993-5424-455c-8db7-8555166f4140.png)
 
+## Array concatenation
+
+We can use concat() to concatenate arrays
+
+![image](https://user-images.githubusercontent.com/88923986/183242481-b8b08151-2ea4-482d-b0a3-539083efa589.png)
+
+## Array slicing
+We can use slice() to return selected elements in an array as new array
+
+![image](https://user-images.githubusercontent.com/88923986/183242589-45b8f4be-8cb4-4f25-8a58-8d6fe202565d.png)
 
  
 

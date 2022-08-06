@@ -18,7 +18,7 @@ A javascript tutorial for beginners
 - [For loop](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#for-loop) [](url)
 - [Break statement](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#break-statement) [](url)
 - [Continue statement](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#continue-statement) [](url)
-- [Do while loop]
+- [Do while loop](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#do-while-loop) [](url)
 
 # Introduction
 

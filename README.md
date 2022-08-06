@@ -18,6 +18,7 @@ A javascript tutorial for beginners
 - [For loop](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#for-loop) [](url)
 - [Break statement](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#break-statement) [](url)
 - [Continue statement](https://github.com/SpaciousCoder78/javascript-for-beginners/tree/main#continue-statement) [](url)
+- [Do while loop]
 
 # Introduction
 
@@ -193,6 +194,14 @@ Break statement ends the loop if the break statement's condition gets satisfied
 Continue statement continues the loop if the condition gets satisfied
 
 ![image](https://user-images.githubusercontent.com/88923986/183112192-b4ab8e15-680c-4017-92f3-c73a603493b2.png)
+
+# Do while loop
+
+This loop executes the code block once and continues doing so if the while loop condition is satisfied
+
+![image](https://user-images.githubusercontent.com/88923986/183235923-e4f05675-d28f-4c66-b372-c1d516c834b5.png)
+
+
 
 
                                                                    
